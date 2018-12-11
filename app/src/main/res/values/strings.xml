@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STOP</string>
+
+    <string name="game_press_button_to_play">Click on screen to start</string>
+    <string name="game_start">Start</string>
+    <string name="game_get_ready">Get ready</string>
+    <string name="game_done_1">Game done!\nScore:\u0020</string>
+    <string name="game_done_2">\n\nClick on screen to play again</string>
+</resources>
